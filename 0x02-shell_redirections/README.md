@@ -1,1 +1,2 @@
-0-hello-world
+#!/bin/bash
+echo "script for project"
