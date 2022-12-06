@@ -1,2 +1,1 @@
-#!/bin/bash
-echo "Script for this project"
+0-hello_world
