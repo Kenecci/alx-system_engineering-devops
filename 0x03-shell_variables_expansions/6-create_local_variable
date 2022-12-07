@@ -1,2 +1,3 @@
 #!/bin/bash
-echo $Name=BEST $Value=School
+Name="BEST"
+Value="School"
